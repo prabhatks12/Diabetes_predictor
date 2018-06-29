@@ -11,5 +11,7 @@ A machine learning based project which can be used to predict whether the user h
 
 ## Algorithm:
 Decision tree algorithm is used for this project .
+Glucose and BMI were the main parameters found for causing Diabetes using Decision Tree.
 
 ## Screenshot:
+![screeenshot](https://user-images.githubusercontent.com/30776930/42116338-6a4f1214-7c14-11e8-9b49-6f72241f8b50.png)
